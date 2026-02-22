@@ -1,0 +1,5 @@
+{
+  "name": "11x AI Engine",
+  "description": "A high-performance, multi-model AI comparison dashboard powered by OpenRouter. Compare GPT-4o, Claude 3.5, Gemini 1.5, and more in real-time.",
+  "requestFramePermissions": []
+}
