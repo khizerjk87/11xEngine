@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # 11x Engine — Multi-Model AI Comparison Tool
 
 Compare responses from GPT-4o, Claude, Gemini, and more — side by side, in real time.
